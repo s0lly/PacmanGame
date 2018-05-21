@@ -22,3 +22,12 @@ Features that were purposely not included:
 
 
 Otherwise, I hope you enjoy this simplified version of Pacman!
+
+
+Credits:
+
+Using the Chili Framework: http://wiki.planetchili.net/index.php... - thanks Chili!
+
+Thanks to Eric Skiff (http://ericskiff.com/music) for his amazing music! Using the tracks "A Night Of Dizzy Spells" and "Chibi Ninja".
+
+The other sound effects were found here: http://soundbible.com/
